@@ -1,0 +1,25 @@
+{
+  "name": "@sitepack/static-server",
+  "version": "0.1.0",
+  "description": "Static server for sitapack apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitepack/sitepack-static-server.git"
+  },
+  "keywords": [
+    "sitepack"
+  ],
+  "author": "Jas Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitepack/sitepack-static-server/issues"
+  },
+  "homepage": "https://github.com/sitepack/sitepack-static-server#readme",
+  "peerDependencies": {
+    "express": "^4.13.3"
+  }
+}
