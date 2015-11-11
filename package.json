@@ -1,6 +1,6 @@
 {
   "name": "@sitepack/static-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Static server for sitapack apps.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/sitepack/sitepack-static-server/issues"
   },
   "homepage": "https://github.com/sitepack/sitepack-static-server#readme",
-  "peerDependencies": {
+  "dependencies": {
     "express": "^4.13.3"
   }
 }
